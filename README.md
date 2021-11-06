@@ -1,3 +1,5 @@
+Sample Angular PluralSite course files from 2018-2019. No longer actively being worked on.
+
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
